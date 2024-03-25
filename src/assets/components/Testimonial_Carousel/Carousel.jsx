@@ -28,8 +28,8 @@ function Carousel() {
             <div className=' h-64 mr-12  bg-custom-lightBlue p-12 text-gray-500 text-xl space-y-4' >
                 <h2>⭐⭐⭐⭐⭐</h2>
                 <h2>{Testimonial[activeIndex]}</h2>
-                <button className='ml-72 h-10 w-10 border rounded-full mr-2 hover:bg-red-600 slide-left' onClick={prevSlide}><img src="../../../../public/Section 6 Images/63bbdce866c70373ce6d6898_icon (1).png" alt="" className='ml-3' /> </button>
-                <button className='ml-78 h-10 w-10 border rounded-full hover:bg-red-600 ' onClick={nextSlide}><img src="../../../../public/Section 6 Images/63bbdce866c703ed4d6d6899_icon (2).png" alt="" className='ml-3' /></button>
+                <button className='ml-72 h-10 w-10 border rounded-full mr-2 hover:bg-red-600 slide-left' onClick={prevSlide}><img src="/Section 6 Images/63bbdce866c70373ce6d6898_icon (1).png" alt="" className='ml-3' /> </button>
+                <button className='ml-78 h-10 w-10 border rounded-full hover:bg-red-600 ' onClick={nextSlide}><img src="/Section 6 Images/63bbdce866c703ed4d6d6899_icon (2).png" alt="" className='ml-3' /></button>
             </div>
         </div>
     )

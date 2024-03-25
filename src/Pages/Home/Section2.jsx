@@ -33,7 +33,7 @@ function Section2() {
            
 
             <div className='slide-right'>
-              <img src="../../../../public/Section2 Images/63bbdce866c7034fc46d6891_image_here.png" alt="" className=' mt-72 rounded-xl' />
+              <img src="/Section2 Images/63bbdce866c7034fc46d6891_image_here.png" alt="" className=' mt-72 rounded-xl' />
             </div>
           </div>
         </div>

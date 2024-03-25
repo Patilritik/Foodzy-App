@@ -13,7 +13,7 @@ function HeroSection() {
                         <div class="flex flex-col w-full text-center p-8">
                             <img src="/Hero Section/63bbdce866c70300f16d688a_01.png" className='slide-left w-24 h-24 absolute  mx-24 my-2 z-100 ' alt="" />
                             <h1 class="text-8xl md:text-8xl p-2 font-sourceSerif text-center font-semibold slide-left">WELCOME TO</h1>
-                            <img src="/Hero Section/63bbdce866c703a34c6d688e_image_here.png" class ='h-100 w-120  m-auto z-100 my-[-10vh] big  slide-top' alt="image here" />
+                            <img src="/Hero Section/63bbdce866c703a34c6d688e_image_here.png" class ='h-100 w-120  m-auto z-100 my-[-10vh] big ' alt="image here" />
                             <h1 class="my-[-10vh] foodzy text-8xl md:text-10xl leading-relaxed md:leading-snug mb-2 font-sourceSerif font-semibold ">FOODZY
                             </h1>
                             <img src="/Hero Section/63bbdce866c70369016d686c_02.png " className='w-24 h-24 absolute  right-36 my-36 slide-right' alt="" />
