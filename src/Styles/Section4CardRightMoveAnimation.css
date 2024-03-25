@@ -1,0 +1,6 @@
+.rightCardMotion{
+    /* animation: RightMotion 3s ease-in-out; */
+    transform: translateX(12px);
+    transition:  ease-in-out 0.2s;
+}
+

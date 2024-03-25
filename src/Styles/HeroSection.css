@@ -1,0 +1,38 @@
+.big:hover{
+    transition: translate ease-in-out 3s;
+
+    animation: motion 3s infinite;
+
+}
+
+*{
+    font-size : 1.12rem ;
+}
+@keyframes motion {
+    0%{
+        translate: 0 0%;
+    }
+    50%{
+        translate: 0 -50%;
+    }
+    100%{
+        translate: 0 0%;
+    }
+}
+.foodzy{
+    animation: slide-up 2s ease-in-out  backwards;
+}
+@keyframes slide-up {
+     0%{
+        transform: translateY(50%) ;
+        opacity: 25%;
+     }   
+     100%{
+        transform: translateY(0%);
+        opacity: 100%;
+     }   
+}
+
+
+
+

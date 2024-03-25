@@ -1,0 +1,18 @@
+.biker {
+    animation: 15s ease-in-out biker-motion infinite;
+
+
+}
+
+@keyframes biker-motion {
+    from {
+
+
+        transform: translateX(100vw);
+    }
+
+    to {
+
+        transform: translateX(-14vw);
+    }
+}
